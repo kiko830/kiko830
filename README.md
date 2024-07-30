@@ -14,9 +14,9 @@
 
 
 ### :woman_technologist: About Me :
-I am a student in University of Auckland, pursuing the path towards Full Stack Developement <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a student at the University of Auckland, pursuing the path towards Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🔭 Have a few web development projects
+- 🔭 More experienced in web development projects and currently a tutor for a web development course
 - 🌱 Currently learning Cloud
 - ⚡ Fun fact: Experienced all the ramen restaurants in Auckland, NZ. Ask me for rankings! 🍜
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiko-chen-8707462ab/)
